@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/schema.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/wytwornia/index.php" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="MariaDB" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;1e1c8482-c477-4e51-bb28-981d69c8e680&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;filmy&quot;      }     }    }   }  } }}" />
+  </component>
+</project>
